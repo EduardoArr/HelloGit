@@ -1,3 +1,6 @@
+# VERSION DEL CURSO
+Version Actual: v1.2.2
+
 # Cabeceras:
 # Cabecera H1
 ## Cabecera H2
@@ -103,5 +106,7 @@ ___
 # Saltos de Línea
 
 Esto es nuestro primer parrafo. 
+
 Esto es nuestro segundo parrafo. 
+
 Esto es nuestro tercer parrafo. 
